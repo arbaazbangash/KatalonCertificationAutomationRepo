@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Cypress with Cucumber BDD - Beginner to E_d66139</name>
+   <tag></tag>
+   <elementGuidId>221a13f9-1ba3-430d-bee8-e8db328b8473</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='udemy-promo-thumbnail']/p/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>86ff34c7-7701-4ef7-9689-21cfe311a9b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.udemy.com/course/cypress-with-cucumber-bdd-beginner-to-expert-in-9-hours/?couponCode=A5AF58BAB2B666E55A34</value>
+      <webElementGuid>46f2a678-7dd9-461a-a6b0-e375785cfbd6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Cypress with Cucumber BDD - Beginner to Expert in 9 Hours!</value>
+      <webElementGuid>ecba3fab-c475-4b3d-80a1-b706614a503f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;udemy-promo-thumbnail&quot;)/p[1]/a[1]</value>
+      <webElementGuid>3f527763-6404-4838-b5f4-e03993becbf1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='udemy-promo-thumbnail']/p/a</value>
+      <webElementGuid>43d50a73-3f43-464c-b984-473dd43b3220</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Cypress with Cucumber BDD - Beginner to Expert in 9 Hours!')]</value>
+      <webElementGuid>7eff5e79-3c92-42dd-8406-6f4c7fe6ac48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Valid until 19/07/2023.'])[1]/following::a[1]</value>
+      <webElementGuid>2caa2a5f-718b-4d4b-8cde-1228310e106d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Complete Cypress v12 Course: From Zero to Expert! [2023]'])[1]/preceding::a[1]</value>
+      <webElementGuid>86728c52-bbf9-4c55-8165-4f219bb39235</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Complete WebdriverIO Course: From Zero to Expert! [2023]'])[1]/preceding::a[2]</value>
+      <webElementGuid>7c26375b-b337-4813-9b77-f2d891ba2918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Cypress with Cucumber BDD - Beginner to Expert in 9 Hours!']/parent::*</value>
+      <webElementGuid>9541cf89-e4ab-4628-b7a0-0f283e1773d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.udemy.com/course/cypress-with-cucumber-bdd-beginner-to-expert-in-9-hours/?couponCode=A5AF58BAB2B666E55A34')]</value>
+      <webElementGuid>4347e76b-571a-4f03-bfa4-8b0754aea691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p/a</value>
+      <webElementGuid>3bee0367-3094-48af-b9c4-846dccb2e6f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.udemy.com/course/cypress-with-cucumber-bdd-beginner-to-expert-in-9-hours/?couponCode=A5AF58BAB2B666E55A34' and (text() = 'Cypress with Cucumber BDD - Beginner to Expert in 9 Hours!' or . = 'Cypress with Cucumber BDD - Beginner to Expert in 9 Hours!')]</value>
+      <webElementGuid>c3d04c3f-2659-4963-bd1d-76628e8a11a1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

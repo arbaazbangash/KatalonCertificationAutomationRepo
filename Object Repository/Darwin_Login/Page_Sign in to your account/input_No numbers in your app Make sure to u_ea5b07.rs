@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_No numbers in your app Make sure to u_ea5b07</name>
+   <tag></tag>
+   <elementGuidId>121425ed-e973-47f2-bef9-a1b89f00e8c9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='idChkBx_SAOTCAS_TD']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#idChkBx_SAOTCAS_TD</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f00684a6-367e-4c9c-bf6d-ab89cc1f15db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>idChkBx_SAOTCAS_TD</value>
+      <webElementGuid>565324d1-9691-4d21-8f18-7527361cad8f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>checkbox</value>
+      <webElementGuid>1d54de98-cce2-4534-a36b-b9dddb7d19c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>8d2a73b7-a70c-4d03-9d8c-14254beeb1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-bind</name>
+      <type>Main</type>
+      <value>
+                        attr: { name: svr.sTrustedDeviceCheckboxName },
+                        ariaLabel: str['CT_SAOTCAS_STR_AddTD'],
+                        ariaDescribedBy: ['idDiv_SAOTCAS_Title', 'idDiv_SAOTCAS_Description'].concat(description2 ? ['idDiv_RichContext_Description'] : []).join(' '),
+                        hasFocusEx: tdCheckbox.isShown &amp;&amp; !focusOnSign(),
+                        checked: tdCheckbox.isChecked,
+                        disable: tdCheckbox.isDisabled</value>
+      <webElementGuid>237b5948-c63e-4482-96ec-23332c12210b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>rememberMFA</value>
+      <webElementGuid>78d4b356-9b5b-4c23-b6ac-42b9867751c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Don't ask again for 30 days</value>
+      <webElementGuid>773d55b5-92d2-4ce4-af05-c8afbed095bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-describedby</name>
+      <type>Main</type>
+      <value>idDiv_SAOTCAS_Title idDiv_SAOTCAS_Description</value>
+      <webElementGuid>6868d925-4ecf-4eb9-8b09-b2c05d8d6c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;idChkBx_SAOTCAS_TD&quot;)</value>
+      <webElementGuid>c9f3cda8-ea42-4ab2-bf04-b10b2844aac5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='idChkBx_SAOTCAS_TD']</value>
+      <webElementGuid>83b66e97-13de-4188-ab9d-cc7b1b1c0bcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//label[@id='idLbl_SAOTCAS_TD_Cb']/input</value>
+      <webElementGuid>5ed3ca6b-5219-448d-a432-d95744ed6bf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//label/input</value>
+      <webElementGuid>7df0f368-0fbb-42d3-b832-f9b3b5c66ea8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'idChkBx_SAOTCAS_TD' and @type = 'checkbox' and @name = 'rememberMFA']</value>
+      <webElementGuid>6ca1e557-3a6c-409f-93f0-3b7cff0360ab</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

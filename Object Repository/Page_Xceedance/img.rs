@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>c8d0d88c-316f-4c15-a9d2-2346e7004415</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[6]/div/a/div/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>87a8b759-b857-458e-a3ad-7010104e1865</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>/images/Icons_latest/attendance.png</value>
+      <webElementGuid>78dd1284-c57b-4b71-a1fb-7c5f5bc86693</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container-full container-minheight pt-68 clearfix&quot;]/div[1]/nav[@class=&quot;main-navigation mt-x pb-50&quot;]/div[@class=&quot;container pt-24&quot;]/div[@class=&quot;row_15 mobile-inlineBlock&quot;]/div[@class=&quot;col-md-2 col-sm-2 inBlock&quot;]/div[@class=&quot;single-menu-item&quot;]/a[1]/div[@class=&quot;module-icon-wrapper&quot;]/img[1]</value>
+      <webElementGuid>222db981-112a-44ca-8afe-ed681ee7cf85</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/a/div/img</value>
+      <webElementGuid>ef524cb8-9da7-4afc-928b-c087849f1535</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = '/images/Icons_latest/attendance.png']</value>
+      <webElementGuid>378d5043-8137-42ca-b538-8d390ae9c522</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

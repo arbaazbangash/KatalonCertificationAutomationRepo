@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Logout</name>
+   <tag></tag>
+   <elementGuidId>1adffdd4-a77f-4329-ba20-b2e6bee168b5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dasboard-bigheader']/header/div[4]/ul/li[3]/div/ul/li[3]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.profile-dropdown.dropdown-menu.show > li:nth-of-type(3) > a.menu-link.logout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4de30e60-4fcc-4139-be2b-ff7e8f9d7d83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>menu-link logout</value>
+      <webElementGuid>69ee0354-66f5-4679-bcfe-d1b301f8e363</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user/adfs/logout</value>
+      <webElementGuid>3b14851e-030a-45d1-b21d-af6a8261d191</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logout</value>
+      <webElementGuid>3970c85b-3a3e-4127-a6fe-08c37fa78130</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dasboard-bigheader&quot;)/header[@class=&quot;top-header&quot;]/div[@class=&quot;col-md-4 text-right mt-16 desktopDisplay&quot;]/ul[@class=&quot;list-inline display-inline-flex align-items-center&quot;]/li[3]/div[@class=&quot;user-profile dropdown dropdown-hover text-default&quot;]/ul[@class=&quot;profile-dropdown dropdown-menu show&quot;]/li[3]/a[@class=&quot;menu-link logout&quot;]</value>
+      <webElementGuid>7402f0fa-5b1f-4ffc-a90b-9e946b79b32d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dasboard-bigheader']/header/div[4]/ul/li[3]/div/ul/li[3]/a</value>
+      <webElementGuid>da9c6287-1ccd-4075-9722-f4a2dbdfcd4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Logout')])[2]</value>
+      <webElementGuid>9be2ee81-3dd9-4951-84be-eb76acd3fe49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Settings'])[2]/following::a[1]</value>
+      <webElementGuid>c2f94c2e-1196-4f1f-ab13-d5b06165368b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Profile'])[2]/following::a[2]</value>
+      <webElementGuid>33072a87-1749-469d-b7b7-2ce8674b2bc6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Location'])[1]/preceding::a[13]</value>
+      <webElementGuid>649d4e60-cd5b-409d-b00b-03df0d296972</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[13]</value>
+      <webElementGuid>03a92300-dac5-43be-a222-933670179448</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/user/adfs/logout')])[2]</value>
+      <webElementGuid>be15183c-1dae-4645-b42b-4fa63435f93f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[3]/div/ul/li[3]/a</value>
+      <webElementGuid>d6a0f2a4-ffc3-4150-84a5-4447218d033a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user/adfs/logout' and (text() = 'Logout' or . = 'Logout')]</value>
+      <webElementGuid>44e63e73-4d34-4c5e-bf89-0defdf8abc73</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Xceedance DarwinBox SSO</name>
+   <tag></tag>
+   <elementGuidId>891740ed-3c04-4c6c-8ddd-d8f6064d421e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='sso_form']/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.body.ripple-effect</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0681a27e-8e6f-4c8b-8dbf-f79d2618bf55</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>javascript:void(0)</value>
+      <webElementGuid>7ba93433-4e13-4936-8be8-2cddd8ecb1c5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-value</name>
+      <type>Main</type>
+      <value>a649ece62bce4a</value>
+      <webElementGuid>658d3acd-6c5a-4af9-aaf3-558f9d737816</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>body ripple-effect</value>
+      <webElementGuid>737626b8-afb7-41e1-8a51-a94d5700aee9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xceedance DarwinBox SSO</value>
+      <webElementGuid>ecc9e446-6a11-48fc-91a6-d1d8bceeaf25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sso_form&quot;)/div[@class=&quot;single_sign_on&quot;]/div[@class=&quot;user_login_options mt-24 db-customscrollbar&quot;]/a[@class=&quot;body ripple-effect&quot;]</value>
+      <webElementGuid>60c4de1f-531d-476e-bb66-63b87ecf0f8d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='sso_form']/div/div/a</value>
+      <webElementGuid>73f1dd61-591d-4521-84a4-d8ef12196741</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Xceedance DarwinBox SSO')]</value>
+      <webElementGuid>7ff3540a-ef07-4526-86da-82b2b383f0b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Single sign on'])[1]/following::a[1]</value>
+      <webElementGuid>e4df62a6-95f3-4ca7-813e-e150ce014cbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Powered By'])[1]/preceding::a[2]</value>
+      <webElementGuid>c7e8916f-d0ef-47a1-85c0-585869ce7dbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xceedance DarwinBox SSO']/parent::*</value>
+      <webElementGuid>51314fbb-79ee-4fb9-88af-46eff2371151</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'javascript:void(0)')])[2]</value>
+      <webElementGuid>f08013b7-201f-4312-8a39-6a595de245d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div/a</value>
+      <webElementGuid>71ffae02-8210-4e64-b792-ba89710aa50a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'javascript:void(0)' and (text() = 'Xceedance DarwinBox SSO' or . = 'Xceedance DarwinBox SSO')]</value>
+      <webElementGuid>fb9b996c-2a35-4a95-99f9-5534dd9c22b4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

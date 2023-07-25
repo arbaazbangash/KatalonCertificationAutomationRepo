@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MK</name>
+   <tag></tag>
+   <elementGuidId>a85498a0-ee67-402e-885b-f9266167a59c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dasboard-bigheader']/header/div[4]/ul/li[3]/div/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>ul.list-inline.display-inline-flex.align-items-center > li:nth-of-type(3) > div.user-profile.dropdown.dropdown-hover.text-default > div.profile-img > span.directory-avatar</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>6e3fee3c-384c-4770-a88b-c9f63a31802b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>directory-avatar</value>
+      <webElementGuid>55a0752a-9467-4dfb-b347-ad0d069a8a76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MK</value>
+      <webElementGuid>749aee2d-8985-4b68-a535-82afe75a1b0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dasboard-bigheader&quot;)/header[@class=&quot;top-header&quot;]/div[@class=&quot;col-md-4 text-right mt-16 desktopDisplay&quot;]/ul[@class=&quot;list-inline display-inline-flex align-items-center&quot;]/li[3]/div[@class=&quot;user-profile dropdown dropdown-hover text-default&quot;]/div[@class=&quot;profile-img&quot;]/span[@class=&quot;directory-avatar&quot;]</value>
+      <webElementGuid>7f18749a-97df-4203-9ea8-5878fed77c4d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dasboard-bigheader']/header/div[4]/ul/li[3]/div/div/span</value>
+      <webElementGuid>8486f932-e2bd-4658-a363-e86745611dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='VIEW ALL'])[2]/following::span[1]</value>
+      <webElementGuid>52a228b1-3c2a-405e-ac50-2543818652cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clockout'])[2]/following::span[1]</value>
+      <webElementGuid>ceaa0943-decd-4ab6-a8cf-564fc8f00b23</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MK'])[4]/preceding::span[1]</value>
+      <webElementGuid>1012f623-6839-423e-9f62-45378a3bfc9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mohd. Arbaaz Khan'])[2]/preceding::span[2]</value>
+      <webElementGuid>fd1cbc92-19f2-48bf-bc4f-cd3fda72d5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/ul/li[3]/div/div/span</value>
+      <webElementGuid>062c3270-4837-47d8-9b85-2dae155894d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MK' or . = 'MK')]</value>
+      <webElementGuid>405ef6f5-5867-417f-b76d-e13fc6666c7e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

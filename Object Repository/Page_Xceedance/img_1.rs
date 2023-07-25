@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_1</name>
+   <tag></tag>
+   <elementGuidId>1656b22d-f1a8-4896-acfa-77376c0bb245</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dasboard-bigheader']/header/div/div[2]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img[alt=&quot;Xceedance Consulting India Private Limited&quot;]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>1fb85058-352c-4ed5-bfde-ca24b24201d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://darwinbox-data-sing.s3.ap-southeast-1.amazonaws.com/INSTANCE1_a615eb74adce61_82/logo/a10824455686446728eda22b__tenant-avatar-82_1531938718.jpg</value>
+      <webElementGuid>ba48faa7-44d0-4b41-9e3c-86329e75c922</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Xceedance Consulting India Private Limited</value>
+      <webElementGuid>9bbb94a5-452d-451d-ae6a-a8e1d5f2161e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dasboard-bigheader&quot;)/header[@class=&quot;top-header&quot;]/div[@class=&quot;col-md-3 col-xs-5 plrx-0&quot;]/div[@class=&quot;main-logo bg-primary-white pull-left&quot;]/a[1]/img[1]</value>
+      <webElementGuid>e614a76c-59e9-4c30-8f2d-35834c5ad537</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dasboard-bigheader']/header/div/div[2]/a/img</value>
+      <webElementGuid>e2c39f9e-fbf6-4c59-b365-7fc5fc95a8ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Xceedance Consulting India Private Limited']</value>
+      <webElementGuid>6e052d5d-edb9-4beb-9d1e-b7d6549200e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//img</value>
+      <webElementGuid>c049e8ba-2e37-48c0-9fc4-df637444e389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://darwinbox-data-sing.s3.ap-southeast-1.amazonaws.com/INSTANCE1_a615eb74adce61_82/logo/a10824455686446728eda22b__tenant-avatar-82_1531938718.jpg' and @alt = 'Xceedance Consulting India Private Limited']</value>
+      <webElementGuid>878b9746-37c0-4c0a-be06-646d9fae2c97</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
